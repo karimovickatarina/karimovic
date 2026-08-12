@@ -480,6 +480,7 @@ footer .box-container .box a:hover i{
 
    .header-image img{
       height: 30rem;
+  justify-content: center;
    }
    
    .products {
@@ -507,6 +508,7 @@ footer .box-container .box a:hover i{
 
    .header-image img{
       height: 8rem;
+  justify-content: center;
    }
 }
 
@@ -573,6 +575,7 @@ footer .box-container .box a:hover i{
 
    .header-image img{
       height: 22rem;
+  justify-content: center;
    }
 
    .about .image {
